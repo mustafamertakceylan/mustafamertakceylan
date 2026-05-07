@@ -1,16 +1,39 @@
-## Hi there 👋
+# Mustafa Mert Akceylan
 
-<!--
-**mustafamertakceylan/mustafamertakceylan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechanical Engineering student at Istanbul Technical University.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+
+- Aerodynamics
+- Aircraft Systems
+- CAD/CAM
+- Simulation Systems
+- Formula Student Technologies
+
+---
+
+## Links
+
+[LinkedIn](https://www.linkedin.com/in/mertakceylan/)
+
+---
+
+## Technologies
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+![Fusion360](https://img.shields.io/badge/Fusion360-orange?style=for-the-badge)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## Current Focus
+
+Currently working on engineering and software development projects related to aerodynamic analysis and mechanical design.
