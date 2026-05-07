@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,100:0A66C2&height=220&section=header&text=Mustafa%20Mert%20Akceylan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mechanical%20Engineering%20Student%20at%20ITU&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,100:0A66C2&height=220&section=header&text=Mustafa%20Mert%20Akceylan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mechanical%20Engineering%20Student%20at%20Istanbul%20Technical%20University&descAlignY=58&descSize=18" width="100%"/>
 
 <p align="center">
 Mechanical Engineering Student at Istanbul Technical University <br>
