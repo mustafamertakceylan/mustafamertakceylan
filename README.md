@@ -1,39 +1,60 @@
 # Mustafa Mert Akceylan
 
-Mechanical Engineering student at Istanbul Technical University.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,100:0A66C2&height=220&section=header&text=Mustafa%20Mert%20Akceylan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mechanical%20Engineering%20Student%20at%20ITU&descAlignY=58&descSize=18" width="100%"/>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/tr/7/7f/%C4%B0T%C3%9C_Logo.svg" width="120">
+</p>
+
+<p align="center">
+Mechanical Engineering Student at Istanbul Technical University <br>
+Interested in Aerodynamics, Aircraft Systems, CAD/CAM and Simulation Systems
+</p>
 
 ---
 
-## Areas of Interest
+# About Me
+
+- 1st year Mechanical Engineering student at Istanbul Technical University
+- Interested in aerospace and mechanical engineering
+- Working with AutoCAD, Fusion 360, C and C#
+- Interested in aerodynamic analysis and engineering systems
+- Passionate about aircraft technologies and motorsports engineering
+
+---
+
+# Areas of Interest
 
 - Aerodynamics
 - Aircraft Systems
+- Mechanical Design
 - CAD/CAM
 - Simulation Systems
 - Formula Student Technologies
+- Engineering Software Development
 
 ---
 
-## Links
+# Engineering & Software
 
-[LinkedIn](https://www.linkedin.com/in/mertakceylan/)
-
----
-
-## Technologies
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-![Fusion360](https://img.shields.io/badge/Fusion360-orange?style=for-the-badge)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- AutoCAD
+- Fusion 360
+- C
+- C#
+- Git & GitHub
 
 ---
 
-## Current Focus
+# LinkedIn
 
-Currently working on engineering and software development projects related to aerodynamic analysis and mechanical design.
+<p align="left">
+<a href="BURAYA_LINKEDIN_LINKIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+<i>Always learning, always building.</i>
+</p>
