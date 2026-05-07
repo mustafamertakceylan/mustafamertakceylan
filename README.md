@@ -1,10 +1,4 @@
-# Mustafa Mert Akceylan
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,100:0A66C2&height=220&section=header&text=Mustafa%20Mert%20Akceylan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mechanical%20Engineering%20Student%20at%20ITU&descAlignY=58&descSize=18" width="100%"/>
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/tr/7/7f/%C4%B0T%C3%9C_Logo.svg" width="120">
-</p>
 
 <p align="center">
 Mechanical Engineering Student at Istanbul Technical University <br>
@@ -30,7 +24,6 @@ Interested in Aerodynamics, Aircraft Systems, CAD/CAM and Simulation Systems
 - Mechanical Design
 - CAD/CAM
 - Simulation Systems
-- Formula Student Technologies
 - Engineering Software Development
 
 ---
@@ -48,7 +41,7 @@ Interested in Aerodynamics, Aircraft Systems, CAD/CAM and Simulation Systems
 # LinkedIn
 
 <p align="left">
-<a href="BURAYA_LINKEDIN_LINKIN">
+<a href="https://www.linkedin.com/in/mertakceylan/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
