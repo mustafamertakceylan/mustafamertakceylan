@@ -28,14 +28,19 @@ Interested in Aerodynamics, Aircraft Systems, CAD/CAM and Simulation Systems
 
 ---
 
-# Engineering & Software
+# Technologies & Tools
 
-- AutoCAD
-- Fusion 360
-- C
-- C#
-- Git & GitHub
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge)
+![Fusion 360](https://img.shields.io/badge/Fusion360-FF6C00?style=for-the-badge)
+
+![Mechanical Engineering](https://img.shields.io/badge/Mechanical%20Engineering-grey?style=for-the-badge)
+![Aerodynamics](https://img.shields.io/badge/Aerodynamics-darkblue?style=for-the-badge)
+![RF Communication](https://img.shields.io/badge/RF%20Communication-1E3A8A?style=for-the-badge)
 ---
 
 # LinkedIn
