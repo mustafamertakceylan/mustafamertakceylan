@@ -43,6 +43,12 @@ Interested in Aerodynamics, Aircraft Systems, CAD/CAM and Simulation Systems
 ![RF Communication](https://img.shields.io/badge/RF%20Communication-1E3A8A?style=for-the-badge)
 ---
 
+# Certifications & Licenses
+
+- 📡 Amateur Radio Operator License — Class A / TA1PDM
+- ✈️ Student & Amateur UAV Pilot License — Type 1A
+
+  
 # Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertakceylan/)
