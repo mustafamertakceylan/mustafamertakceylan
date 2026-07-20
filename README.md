@@ -9,7 +9,7 @@ Interested in Aerodynamics, Aircraft Systems, CAD/CAM and Simulation Systems
 
 # About Me
 
-- 1st year Mechanical Engineering student at Istanbul Technical University
+- 2nd year Mechanical Engineering student at Istanbul Technical University
 - Interested in aerospace and mechanical engineering
 - Working with AutoCAD, Fusion 360, C and C#
 - Interested in aerodynamic analysis and engineering systems
