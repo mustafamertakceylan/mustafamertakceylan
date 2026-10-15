@@ -1,81 +1,97 @@
 <p align="center">
-  <picture>
-    <source media="(max-width: 600px)" srcset="assets/hero-mobile.svg" />
-    <img src="assets/hero.svg" width="100%" alt="Mustafa Mert Akceylan — Mechanical Engineering at Istanbul Technical University. Aerodynamics, native apps and embedded AI." />
-  </picture>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/hero-mobile.svg" />
+  <img src="assets/hero.svg" width="100%" alt="Mustafa Mert Akceylan — engineering, software and business. Mechanical Engineering at Istanbul Technical University; Business Administration through open education at Istanbul University." />
+</picture>
 </p>
+
+<p align="center"><strong>⚡ Engineering &nbsp; × &nbsp; 💻 Software &nbsp; × &nbsp; 📡 Signals</strong></p>
 
 <p align="center">
-  <a href="#featured-project">Featured project</a> &nbsp; / &nbsp;
-  <a href="#on-the-horizon">On the horizon</a> &nbsp; / &nbsp;
-  <a href="#toolkit">Toolkit</a> &nbsp; / &nbsp;
-  <a href="#connect">Connect</a>
+<a href="#education">Education</a> &nbsp; ✦ &nbsp;
+<a href="#featured-project">Featured project</a> &nbsp; ✦ &nbsp;
+<a href="#coming-next">Coming next</a> &nbsp; ✦ &nbsp;
+<a href="#connect">Connect</a>
 </p>
 
-I study **Mechanical Engineering at Istanbul Technical University** and build software alongside it. My interests span aerodynamics, aircraft systems, CAD/CAM, desktop applications and small devices.
+<a name="education"></a>
 
-## Featured project
+## 🎓 Education
 
-<a href="https://github.com/mustafamertakceylan/MorseCore">
-  <img src="assets/morse-signal.gif" width="100%" alt="MorseCore — an offline Windows app for Morse code. Animated dots, dashes and a travelling signal waveform." />
-</a>
+**Istanbul Technical University** · Mechanical Engineering  
+**Istanbul University** · Business Administration — Open Education
 
-Convert text to Morse, listen, practise and keep amateur radio contact logs. Includes offline speech and interfaces in **Türkçe, English, Deutsch, Русский and العربية**.
+I study engineering and business while building software. My interests span **aerodynamics, aircraft systems, CAD/CAM, native applications and embedded AI**.
 
-**Windows x64 · Preview** &nbsp; [Explore the project ↗](https://github.com/mustafamertakceylan/MorseCore) &nbsp; · &nbsp; [Downloads & releases](https://github.com/mustafamertakceylan/MorseCore/releases)
+<a name="featured-project"></a>
 
-## On the horizon
+## ⚡ Featured project
 
-<sub>Upcoming projects — under development, with no public release announced.</sub>
+<a href="https://github.com/mustafamertakceylan/MorseCore"><img src="assets/morsecore-neon.svg" width="100%" alt="MorseCore — featured project. Morse code, offline voices and radio experiments." /></a>
 
-<table>
-<tr>
-<td width="24%" valign="top"><h3>Kovan</h3><sub>01 / UPCOMING</sub></td>
-<td valign="top">
-<strong>Embedded inference</strong>
-<p>A hive of ESP32 boards. Exploring offline language-model inference across small devices.</p>
-<sub>ESP32-S3 · C/C++ · ESP-IDF</sub>
-</td>
-</tr>
-<tr>
-<td width="24%" valign="top"><h3>Petek</h3><sub>02 / UPCOMING</sub></td>
-<td valign="top">
-<strong>Small Turkish models</strong>
-<p>A companion to Kovan. Tiny Turkish language models designed for microcontrollers.</p>
-<sub>Python · PyTorch · Tokenization</sub>
-</td>
-</tr>
-<tr>
-<td width="24%" valign="top"><h3>Hushbar</h3><sub>03 / UPCOMING</sub></td>
-<td valign="top">
-<strong>A quieter menu bar</strong>
-<p>A native macOS menu bar manager. Exploring a calmer, more focused desktop.</p>
-<sub>Swift · SwiftUI · AppKit</sub>
-</td>
-</tr>
-</table>
+Convert text to Morse, listen, practise and keep amateur radio contact logs. Offline speech and interfaces in **Türkçe · English · Deutsch · Русский · العربية**.
 
-## Toolkit
+<a href="https://github.com/mustafamertakceylan/MorseCore"><img src="https://img.shields.io/badge/EXPLORE-MORSECORE-55e2f3?style=for-the-badge&amp;labelColor=15132f" alt="Explore MorseCore" /></a>
+<a href="https://github.com/mustafamertakceylan/MorseCore/releases"><img src="https://img.shields.io/badge/DOWNLOAD-WINDOWS_x64-b495ff?style=for-the-badge&amp;labelColor=15132f" alt="Download Windows x64 preview" /></a>
 
-| Focus | Tools & technologies |
-| :--- | :--- |
-| Systems & desktop | **C** · **C++** · **C#** · .NET · CMake |
-| Apple platforms | **Swift** · SwiftUI · AppKit |
-| Embedded & models | **ESP32** · ESP-IDF · Python · PyTorch |
-| Mechanical design | **AutoCAD** · **Fusion 360** · CAD/CAM |
-| Everyday workflow | **Git** · GitHub |
+<details>
+<summary><strong>👀 Take a look inside MorseCore</strong></summary>
 
-## Beyond the screen
+![MorseCore interface](https://raw.githubusercontent.com/mustafamertakceylan/MorseCore/main/docs/media/converter.en.png)
+
+</details>
+
+<a name="coming-next"></a>
+
+## 🚀 Coming next
+
+<p><em>Upcoming projects · under development · no public release announced.</em></p>
+
+<img src="assets/kovan-neon.svg" width="100%" alt="Kovan — upcoming. A hive of ESP32 boards exploring offline language-model inference." />
+
+Exploring offline language-model inference across ESP32 boards.  
+**ESP32-S3 · C/C++ · ESP-IDF**
+
+<img src="assets/petek-neon.svg" width="100%" alt="Petek — upcoming. Tiny Turkish language models for microcontrollers." />
+
+Tiny Turkish language models for microcontrollers, designed as a companion to Kovan.  
+**Python · PyTorch · Tokenization**
+
+<img src="assets/hushbar-neon.svg" width="100%" alt="Hushbar — upcoming. A native macOS menu bar manager." />
+
+A native macOS menu bar manager for a calmer desktop.  
+**Swift · SwiftUI · AppKit**
+
+## 🛠️ The workbench
+
+<p>
+<img src="https://img.shields.io/badge/C-32e9f4?style=for-the-badge&amp;logo=c&amp;logoColor=080b21" alt="C" />
+<img src="https://img.shields.io/badge/C%2B%2B-55b9ff?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=080b21" alt="C++" />
+<img src="https://img.shields.io/badge/C%23-a878ff?style=for-the-badge" alt="C sharp" />
+<img src="https://img.shields.io/badge/Swift-ffb477?style=for-the-badge&amp;logo=swift&amp;logoColor=080b21" alt="Swift" />
+<img src="https://img.shields.io/badge/Python-f3cc76?style=for-the-badge&amp;logo=python&amp;logoColor=080b21" alt="Python" />
+<img src="https://img.shields.io/badge/ESP32-ef80d5?style=for-the-badge&amp;logo=espressif&amp;logoColor=080b21" alt="ESP32" />
+</p>
+
+**Desktop** · .NET, CMake, SwiftUI, AppKit  
+**Embedded & models** · ESP-IDF, PyTorch  
+**Mechanical design** · AutoCAD, Fusion 360, CAD/CAM  
+**Workflow** · Git, GitHub
+
+## 📡 Beyond the keyboard
 
 **TA1PDM** · Class A amateur radio operator  
-Student & Amateur UAV Pilot License · Type 1A
+**UAV pilot** · Student & Amateur UAV Pilot License, Type 1A
 
-Aircraft technologies, aerodynamic analysis and motorsports engineering keep me curious about the systems behind the software.
+Aircraft technologies, aerodynamic analysis and motorsports engineering keep me curious about the physical systems behind the software.
 
-## Connect
+<a name="connect"></a>
 
-[LinkedIn ↗](https://www.linkedin.com/in/mertakceylan/) &nbsp; · &nbsp; [Email ↗](mailto:mustafamertakceylan@gmail.com)
+## ✦ Connect
+
+<a href="https://www.linkedin.com/in/mertakceylan/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-55b9ff?style=for-the-badge&amp;labelColor=15132f" alt="Connect on LinkedIn" /></a>
+<a href="mailto:mustafamertakceylan@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-f37bd5?style=for-the-badge&amp;labelColor=15132f" alt="Send an email" /></a>
 
 ---
 
-<p align="center"><sub>Engineering, code and signals.</sub></p>
+<p align="center"><strong>⚙️ Mechanical mind. &nbsp; 💻 Digital playground. &nbsp; 📡 Always exploring.</strong></p>

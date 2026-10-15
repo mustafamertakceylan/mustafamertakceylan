@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title"><title id="title">Hushbar — Less menu bar noise. More room to focus.</title>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080b21"/><stop offset=".55" stop-color="#171032"/><stop offset="1" stop-color="#0b1730"/></linearGradient>
+<linearGradient id="neon"><stop stop-color="#32e9f4"/><stop offset=".4" stop-color="#a878ff"/><stop offset=".75" stop-color="#f065cf"/><stop offset="1" stop-color="#ffbe7b"/></linearGradient>
+<radialGradient id="violet"><stop stop-color="#8638ed" stop-opacity=".42"/><stop offset="1" stop-color="#8638ed" stop-opacity="0"/></radialGradient>
+<radialGradient id="cyan"><stop stop-color="#20e1f2" stop-opacity=".24"/><stop offset="1" stop-color="#20e1f2" stop-opacity="0"/></radialGradient>
+<filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="4"/></filter>
+<clipPath id="clip"><rect x="1" y="1" width="1198" height="248" rx="24"/></clipPath>
+</defs>
+<style>
+.orbit{transform-box:fill-box;transform-origin:center;animation:spin 28s linear infinite}
+.reverse{animation-direction:reverse;animation-duration:40s}
+.dash{animation:dash 12s linear infinite}
+.pulse{animation:pulse 5s ease-in-out infinite}
+.float{animation:float 7s ease-in-out infinite}
+.twinkle{animation:pulse 4s ease-in-out infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes dash{to{stroke-dashoffset:-480}}
+@keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+@media(prefers-reduced-motion:reduce){.orbit,.dash,.pulse,.float,.twinkle{animation:none}}
+</style>
+<g clip-path="url(#clip)"><rect width="1200" height="250" fill="url(#bg)"/>
+<ellipse cx="840.0" cy="75.0" rx="576.0" ry="200.0" fill="url(#violet)"/>
+<ellipse cx="1116.0" cy="225.0" rx="360.0" ry="175.0" fill="url(#cyan)"/><path d="M0 4H1200" stroke="#b495ff" stroke-width="5"/><text x="42" y="51" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" fill="#b495ff" letter-spacing="3">04 / UPCOMING</text><text x="39" y="126" font-family="Segoe UI,Arial,sans-serif" font-size="61" font-weight="750" fill="#ffffff" letter-spacing="-1">Hushbar</text><text x="43" y="171" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="400" fill="#c8d3ef" >Less menu bar noise. More room to focus.</text><path d="M43 211H610" stroke="#b495ff" stroke-opacity=".5" stroke-width="2" stroke-dasharray="45 130" class="dash"/><g class="float"><rect x="785" y="46" width="345" height="165" rx="18" fill="#100f2c" stroke="#a381ff" stroke-opacity=".6"/><rect x="785" y="46" width="345" height="36" rx="18" fill="#8f6bd3" fill-opacity=".2"/><circle cx="952" cy="64" r="4" fill="#b495ff" opacity="0.9"/><circle cx="979" cy="64" r="4" fill="#b495ff" opacity="0.78"/><circle cx="1006" cy="64" r="4" fill="#b495ff" opacity="0.66"/><circle cx="1033" cy="64" r="4" fill="#b495ff" opacity="0.54"/><circle cx="1060" cy="64" r="4" fill="#b495ff" opacity="0.42000000000000004"/><circle cx="1087" cy="64" r="4" fill="#b495ff" opacity="0.30000000000000004"/><rect x="816" y="107" width="212" height="9" rx="4.5" fill="#b495ff" opacity="0.6"/><rect x="816" y="135" width="158" height="9" rx="4.5" fill="#b495ff" opacity="0.44999999999999996"/><rect x="816" y="163" width="99" height="9" rx="4.5" fill="#b495ff" opacity="0.3"/></g></g><rect x="1" y="1" width="1198" height="248" rx="24" fill="none" stroke="url(#neon)" stroke-opacity=".6" stroke-width="2"/></svg>
