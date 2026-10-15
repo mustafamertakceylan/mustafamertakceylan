@@ -30,20 +30,24 @@ Convert text to Morse, listen, practise and keep amateur radio contact logs. Inc
 
 <table>
 <tr>
-<td width="33%" valign="top">
-<h3>01 &nbsp; Kovan</h3>
+<td width="24%" valign="top"><h3>Kovan</h3><sub>01 / UPCOMING</sub></td>
+<td valign="top">
 <strong>Embedded inference</strong>
 <p>A hive of ESP32 boards. Exploring offline language-model inference across small devices.</p>
 <sub>ESP32-S3 · C/C++ · ESP-IDF</sub>
 </td>
-<td width="33%" valign="top">
-<h3>02 &nbsp; Petek</h3>
+</tr>
+<tr>
+<td width="24%" valign="top"><h3>Petek</h3><sub>02 / UPCOMING</sub></td>
+<td valign="top">
 <strong>Small Turkish models</strong>
 <p>A companion to Kovan. Tiny Turkish language models designed for microcontrollers.</p>
 <sub>Python · PyTorch · Tokenization</sub>
 </td>
-<td width="33%" valign="top">
-<h3>03 &nbsp; Hushbar</h3>
+</tr>
+<tr>
+<td width="24%" valign="top"><h3>Hushbar</h3><sub>03 / UPCOMING</sub></td>
+<td valign="top">
 <strong>A quieter menu bar</strong>
 <p>A native macOS menu bar manager. Exploring a calmer, more focused desktop.</p>
 <sub>Swift · SwiftUI · AppKit</sub>
