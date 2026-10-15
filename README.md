@@ -1,7 +1,7 @@
 <p align="center">
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/hero-mobile.svg" />
-  <img src="assets/hero.svg" width="100%" alt="Mustafa Mert Akceylan — engineering, software and business. Mechanical Engineering at Istanbul Technical University; Business Administration through open education at Istanbul University." />
+  <source media="(max-width: 600px)" srcset="assets/hero-mobile.svg?v=3" />
+  <img src="assets/hero.svg?v=3" width="100%" alt="Mustafa Mert Akceylan — engineering, software and business. Mechanical Engineering at Istanbul Technical University; Business Administration through open education at Istanbul University." />
 </picture>
 </p>
 
