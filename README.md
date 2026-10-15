@@ -1,62 +1,77 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,100:0A66C2&height=220&section=header&text=Mustafa%20Mert%20Akceylan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mechanical%20Engineering%20Student%20at%20Istanbul%20Technical%20University&descAlignY=58&descSize=18" width="100%"/>
-
 <p align="center">
-Mechanical Engineering Student at Istanbul Technical University <br>
-Interested in Aerodynamics, Aircraft Systems, CAD/CAM and Simulation Systems
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/hero-mobile.svg" />
+    <img src="assets/hero.svg" width="100%" alt="Mustafa Mert Akceylan — Mechanical Engineering at Istanbul Technical University. Aerodynamics, native apps and embedded AI." />
+  </picture>
 </p>
 
----
-
-# About Me
-
-- 2nd year Mechanical Engineering student at Istanbul Technical University
-- Interested in aerospace and mechanical engineering
-- Working with AutoCAD, Fusion 360, C and C#
-- Interested in aerodynamic analysis and engineering systems
-- Passionate about aircraft technologies and motorsports engineering
-
----
-
-# Areas of Interest
-
-- Aerodynamics
-- Aircraft Systems
-- Mechanical Design
-- CAD/CAM
-- Simulation Systems
-- Engineering Software Development
-
----
-
-# Technologies & Tools
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge)
-![Fusion 360](https://img.shields.io/badge/Fusion360-FF6C00?style=for-the-badge)
-
-![Mechanical Engineering](https://img.shields.io/badge/Mechanical%20Engineering-grey?style=for-the-badge)
-![Aerodynamics](https://img.shields.io/badge/Aerodynamics-darkblue?style=for-the-badge)
-![RF Communication](https://img.shields.io/badge/RF%20Communication-1E3A8A?style=for-the-badge)
----
-
-# Certifications & Licenses
-
-- 📡 Amateur Radio Operator License — Class A / TA1PDM
-- ✈️ Student & Amateur UAV Pilot License — Type 1A
-
-  
-# Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertakceylan/)
-
-[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafamertakceylan@gmail.com)
-
----
-
 <p align="center">
-<i>Always learning, always building.</i>
+  <a href="#featured-project">Featured project</a> &nbsp; / &nbsp;
+  <a href="#on-the-horizon">On the horizon</a> &nbsp; / &nbsp;
+  <a href="#toolkit">Toolkit</a> &nbsp; / &nbsp;
+  <a href="#connect">Connect</a>
 </p>
+
+I study **Mechanical Engineering at Istanbul Technical University** and build software alongside it. My interests span aerodynamics, aircraft systems, CAD/CAM, desktop applications and small devices.
+
+## Featured project
+
+<a href="https://github.com/mustafamertakceylan/MorseCore">
+  <img src="assets/morse-signal.gif" width="100%" alt="MorseCore — an offline Windows app for Morse code. Animated dots, dashes and a travelling signal waveform." />
+</a>
+
+Convert text to Morse, listen, practise and keep amateur radio contact logs. Includes offline speech and interfaces in **Türkçe, English, Deutsch, Русский and العربية**.
+
+**Windows x64 · Preview** &nbsp; [Explore the project ↗](https://github.com/mustafamertakceylan/MorseCore) &nbsp; · &nbsp; [Downloads & releases](https://github.com/mustafamertakceylan/MorseCore/releases)
+
+## On the horizon
+
+<sub>Upcoming projects — under development, with no public release announced.</sub>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3>01 &nbsp; Kovan</h3>
+<strong>Embedded inference</strong>
+<p>A hive of ESP32 boards. Exploring offline language-model inference across small devices.</p>
+<sub>ESP32-S3 · C/C++ · ESP-IDF</sub>
+</td>
+<td width="33%" valign="top">
+<h3>02 &nbsp; Petek</h3>
+<strong>Small Turkish models</strong>
+<p>A companion to Kovan. Tiny Turkish language models designed for microcontrollers.</p>
+<sub>Python · PyTorch · Tokenization</sub>
+</td>
+<td width="33%" valign="top">
+<h3>03 &nbsp; Hushbar</h3>
+<strong>A quieter menu bar</strong>
+<p>A native macOS menu bar manager. Exploring a calmer, more focused desktop.</p>
+<sub>Swift · SwiftUI · AppKit</sub>
+</td>
+</tr>
+</table>
+
+## Toolkit
+
+| Focus | Tools & technologies |
+| :--- | :--- |
+| Systems & desktop | **C** · **C++** · **C#** · .NET · CMake |
+| Apple platforms | **Swift** · SwiftUI · AppKit |
+| Embedded & models | **ESP32** · ESP-IDF · Python · PyTorch |
+| Mechanical design | **AutoCAD** · **Fusion 360** · CAD/CAM |
+| Everyday workflow | **Git** · GitHub |
+
+## Beyond the screen
+
+**TA1PDM** · Class A amateur radio operator  
+Student & Amateur UAV Pilot License · Type 1A
+
+Aircraft technologies, aerodynamic analysis and motorsports engineering keep me curious about the systems behind the software.
+
+## Connect
+
+[LinkedIn ↗](https://www.linkedin.com/in/mertakceylan/) &nbsp; · &nbsp; [Email ↗](mailto:mustafamertakceylan@gmail.com)
+
+---
+
+<p align="center"><sub>Engineering, code and signals.</sub></p>

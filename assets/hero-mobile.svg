@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="440" viewBox="0 0 700 440" role="img" aria-labelledby="title desc">
+<title id="title">Mustafa Mert Akceylan — engineering, code and signals</title>
+<desc id="desc">Mechanical engineering student at Istanbul Technical University. A technical drawing of an airfoil with animated flow lines.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1526"/><stop offset="1" stop-color="#101f33"/></linearGradient>
+ <linearGradient id="wing" x2="0.7" y2="1"><stop stop-color="#38bdb7" stop-opacity=".25"/><stop offset="1" stop-color="#38bdb7" stop-opacity=".03"/></linearGradient>
+ <linearGradient id="fade"><stop stop-color="#44d7c4" stop-opacity="0"/><stop offset=".4" stop-color="#44d7c4"/><stop offset="1" stop-color="#44d7c4" stop-opacity=".1"/></linearGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#7b99b9" stroke-opacity=".065"/></pattern>
+ <clipPath id="bounds"><rect width="1200" height="440" rx="20"/></clipPath>
+</defs>
+<style>
+ .flow{stroke-dasharray:7 19;animation:stream 8s linear infinite}
+ .slow{animation-duration:12s}
+ .pulse{animation:signal 4s ease-in-out infinite}
+ .orbit{transform-origin:970px 215px;animation:orbit 40s linear infinite}
+ @keyframes stream{to{stroke-dashoffset:-260}}
+ @keyframes signal{0%,100%{opacity:.4}50%{opacity:1}}
+ @keyframes orbit{to{transform:rotate(360deg)}}
+ @media(prefers-reduced-motion:reduce){.flow,.pulse,.orbit{animation:none}}
+</style>
+<g clip-path="url(#bounds)">
+ <rect width="1200" height="440" fill="url(#bg)"/>
+ <rect width="1200" height="440" fill="url(#grid)"/>
+ <path d="M0 0H1200" stroke="#44d7c4" stroke-width="3"/>
+ <circle cx="970" cy="215" r="176" fill="none" stroke="#91b0ca" stroke-opacity=".12"/>
+ <circle cx="970" cy="215" r="144" fill="none" stroke="#91b0ca" stroke-opacity=".08" stroke-dasharray="2 10"/>
+ <g class="orbit" fill="none" stroke="#44d7c4" stroke-opacity=".5"><circle cx="970" cy="215" r="176" stroke-dasharray="48 1058"/><circle cx="1146" cy="215" r="4" fill="#44d7c4" stroke="none"/></g>
+ <g fill="none" stroke="#44d7c4" stroke-width="1.4" opacity=".38">
+  <path class="flow slow" d="M710 116C850 116 858 88 972 102S1128 140 1250 140"/>
+  <path class="flow" d="M700 157C818 157 858 120 958 140S1105 181 1240 181"/>
+  <path class="flow slow" d="M700 204C810 204 853 144 964 171S1105 217 1240 217"/>
+  <path class="flow" d="M700 259C812 259 860 278 964 263S1105 253 1240 253"/>
+  <path class="flow slow" d="M700 300C818 300 866 320 974 304S1114 289 1240 289"/>
+  <path class="flow" d="M710 344C830 344 880 360 984 345S1120 329 1240 329"/>
+ </g>
+ <path d="M817 230C839 168 936 175 1120 238C970 226 859 265 817 230Z" fill="url(#wing)" stroke="#63e1ce" stroke-width="2"/>
+ <path d="M817 230L1120 238" fill="none" stroke="#b4d4e6" stroke-opacity=".3" stroke-dasharray="4 5"/>
+ <path d="M817 230V364M1120 238V364M817 355H1120M817 349V361M1120 349V361" fill="none" stroke="#7896ad" stroke-opacity=".35"/>
+ <text x="968" y="378" text-anchor="middle" fill="#809ab2" font-size="12" font-family="Consolas,monospace" letter-spacing="3">IDEA → MODEL → BUILD</text>
+ <g font-family="Segoe UI,Arial,sans-serif">
+  <text x="58" y="65" fill="#63e1ce" font-size="13" letter-spacing="3.5">ENGINEERING / SOFTWARE / EXPERIMENTS</text>
+  <text x="56" y="151" fill="#f1f6fc" font-size="54" font-weight="700" letter-spacing="-1.8">Mustafa Mert</text>
+  <text x="56" y="210" fill="#f1f6fc" font-size="54" font-weight="700" letter-spacing="-1.8">Akceylan<tspan fill="#63e1ce">.</tspan></text>
+  <text x="58" y="258" fill="#b8c9dc" font-size="20">Mechanical Engineering · Istanbul Technical University</text>
+  <text x="58" y="292" fill="#839db8" font-size="17">From physical systems to the software behind them.</text>
+  <path d="M58 328H634" stroke="#31445b"/>
+  <text x="58" y="364" fill="#d6e5f4" font-size="14" letter-spacing="1.2">AERODYNAMICS</text>
+  <text x="230" y="364" fill="#63e1ce" font-size="14">/</text>
+  <text x="256" y="364" fill="#d6e5f4" font-size="14" letter-spacing="1.2">NATIVE APPS</text>
+  <text x="399" y="364" fill="#63e1ce" font-size="14">/</text>
+  <text x="425" y="364" fill="#d6e5f4" font-size="14" letter-spacing="1.2">EMBEDDED AI</text>
+ </g>
+ <g fill="#63e1ce" class="pulse"><circle cx="60" cy="405" r="3"/><rect x="73" y="402" width="18" height="6" rx="3"/><circle cx="104" cy="405" r="3"/><circle cx="117" cy="405" r="3"/></g>
+ <text x="141" y="409" fill="#7792ad" font-family="Consolas,monospace" font-size="11" letter-spacing="1.8">TA1PDM</text>
+</g></svg>
