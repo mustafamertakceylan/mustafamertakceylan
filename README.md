@@ -9,7 +9,7 @@
 
 <p align="center">
 <a href="#education">Education</a> &nbsp; ✦ &nbsp;
-<a href="#featured-project">Featured project</a> &nbsp; ✦ &nbsp;
+<a href="#featured-project">Featured projects</a> &nbsp; ✦ &nbsp;
 <a href="#coming-next">Coming next</a> &nbsp; ✦ &nbsp;
 <a href="#connect">Connect</a>
 </p>
@@ -25,7 +25,7 @@ I study engineering and business while building software. My interests span **ae
 
 <a name="featured-project"></a>
 
-## ⚡ Featured project
+## ⚡ Featured projects
 
 <a href="https://github.com/mustafamertakceylan/MorseCore"><img src="assets/morsecore-neon.svg" width="100%" alt="MorseCore — featured project. Morse code, offline voices and radio experiments." /></a>
 
@@ -38,6 +38,25 @@ Convert text to Morse, listen, practise and keep amateur radio contact logs. Off
 <summary><strong>👀 Take a look inside MorseCore</strong></summary>
 
 ![MorseCore interface](https://raw.githubusercontent.com/mustafamertakceylan/MorseCore/main/docs/media/converter.en.png)
+
+</details>
+
+### Autocad MCP
+
+<a href="https://github.com/mustafamertakceylan/Autocad-MCP"><img src="https://raw.githubusercontent.com/mustafamertakceylan/Autocad-MCP/main/desktop/assets/autocad-mcp-logo.png" align="right" width="96" alt="Autocad MCP logo" /></a>
+
+Connect **Codex, Claude Code and OpenCode** to AutoCAD through a local MCP bridge. **52 CAD tools** for drawing, inspection, dimensions, solids and PDF output, with a system tray app and step-by-step setup guides.
+
+**Windows x64 preview · Full AutoCAD 2027 · Apache-2.0**<br />
+Unsigned preview; Mac support is planned. The app UI is currently Turkish, with English and Turkish documentation. Claude Code setup is included; live Claude model testing is pending.
+
+<a href="https://github.com/mustafamertakceylan/Autocad-MCP"><img src="https://img.shields.io/badge/EXPLORE-AUTOCAD_MCP-D92532?style=for-the-badge&amp;labelColor=15132f" alt="Explore Autocad MCP" /></a>
+<a href="https://github.com/mustafamertakceylan/Autocad-MCP/releases/latest"><img src="https://img.shields.io/badge/DOWNLOAD-WINDOWS_x64-ff7b85?style=for-the-badge&amp;labelColor=15132f" alt="Download Autocad MCP Windows x64 preview" /></a>
+
+<details>
+<summary><strong>Take a look inside Autocad MCP</strong></summary>
+
+![Autocad MCP setup guide](https://raw.githubusercontent.com/mustafamertakceylan/Autocad-MCP/main/docs/media/setup-guide.jpg)
 
 </details>
 
